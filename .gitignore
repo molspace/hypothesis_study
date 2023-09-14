@@ -1,0 +1,4 @@
+.DS_Store
+.hypothesis
+.pytest_cache
+__pycache__
